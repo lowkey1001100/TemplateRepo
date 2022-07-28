@@ -89,7 +89,7 @@ The following Github users have contributed to this project:
 
 ## Discussions 🗣️
 
-Discussions have not been enabled.
+We use GitHub Discussions to talk about all sorts of topics related to documentation and this site. For example: if you'd like help troubleshooting a PR, have a great new idea, or want to share something amazing, join us in the [discussions]().
 
 ##  License  ⚖️
 
