@@ -20,13 +20,6 @@ To navigate our codebase with confidence, see [the introduction to working in th
 Some of them don't even require writing a single line of code :sparkles:.
 
 
-## Submission Requirments ⚙️
-
-
-
-✨ Look at our commit history for more examples: We'll still work with your contributions even if they don't follow these guidelines so don't let that stop you.
-
-
 ## Directory Structure 📂
 
 ```cmd
@@ -46,6 +39,9 @@ ProjectFolder/
 
 ```
 
+## Submission Requirments ⚙️
+
+✨ Look at our commit history for more examples: We'll still work with your contributions even if they don't follow these guidelines so don't let that stop you.
 
 
 ## Work Flow Process ♻️ 
