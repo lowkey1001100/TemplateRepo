@@ -75,7 +75,7 @@ $ pipenv run python main.py
 
 ## Contribute  🤝
 
-Contributions are Welcome! For instructions on how to contribute please read our [Contributing Guidelines]().
+Contributions are Welcome! For instructions on how to contribute please read our [Contributing Guidelines](https://github.com/seraph776/TemplateRepo/discussions).
 
 
 ## Contributors 🌎
