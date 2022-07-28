@@ -77,9 +77,19 @@ $ pipenv run python main.py
 
 Contributions are Welcome! For instructions on how to contribute please read our [Contributing Guidelines]().
 
+
+## Contributors 🌎
+  
+The following Github users have contributed to this project: 
+
+<a href="https://github.com/seraph776/TemplateRepo/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=seraph776/TemplateRepo" />
+</a> 
+
+
 ## Discussions 🗣️
 
-Discussion s have not been enabled.
+Discussions have not been enabled.
 
 ##  License  ⚖️
 
