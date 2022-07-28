@@ -27,6 +27,25 @@ Some of them don't even require writing a single line of code :sparkles:.
 ✨ Look at our commit history for more examples: We'll still work with your contributions even if they don't follow these guidelines so don't let that stop you.
 
 
+## Directory Structure 📂
+
+```cmd
+ProjectFolder/
+├─ app/
+│  ├─ app.py
+│
+├─ assets/
+│  ├─ app_functions.py
+|  ├─ images.jpg
+|
+├─ tests/
+│  ├─ test_app.py
+│  
+├─ README.md
+├─ LICENSE
+
+```
+
 
 
 ## Work Flow Process ♻️ 
